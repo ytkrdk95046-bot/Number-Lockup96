@@ -5,11 +5,11 @@ const fs = require("fs");
 
 const app = express();
 
-const BOT_TOKEN = "8908464362:AAEcvhDm47otL_OsNVcr8Sugg3K07bIn1Sc"; // ← Apna Token daalo
+const BOT_TOKEN = "8908464362:AAG1JbJNL4snZojzbRTnsEUm4WrIPDE8Qek"; // ← Apna Token daalo
 
 const ADMIN_IDS = [8878702771]; // ← Yahan apna Telegram ID daal do (Multiple IDs comma se add kar sakte ho)
 
-const NUM_API = "https://api.vectorxo.online/lookup?key=vectorxo&mobile=";
+const NUM_API = "https://kaise.page.gd/@.php?api_key=mahadev&number=";  // ← Updated API
 const TG_API = "https://api.igfollows.site/TG/index.php?type=user&key=AYAN&term=";
 
 const CREDIT = "☙꯭꧁༺Deepak ╔═𖣔ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ(ـ๋ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧ͡";
